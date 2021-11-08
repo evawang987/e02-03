@@ -1,6 +1,2 @@
-# e02-03
-
-hour = input ('Enter Hour:')
-rate = input ('Enter rate:')
-pay = float(hour)*float(rate)
-print ('Pay:',pay)
+# py4e Assignment
+This file contains all my assignments for the five courses of the Python for Everyboday Specialization
